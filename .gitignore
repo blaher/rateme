@@ -102,3 +102,6 @@ ENV/
 
 # osx
 .DS_Store
+
+#django
+settings.py
